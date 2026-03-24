@@ -1,14 +1,13 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+<img width="924" height="504" src="https://github.com/user-attachments/assets/8994b011-2694-4f37-82f7-4ec5a6c2a75d" />
 
+# Car Assist
 
-# Template para TCC - Repositório Oficial
+Empresa especializada no desenvolvimento de aplicações voltadas para o setor automotivo, com foco na gestão, monitoramento e manutenção de veículos.
 
-Este repositório serve como modelo (template) para organização e versionamento do Trabalho de Conclusão de Curso. Utilize esta estrutura para manter seu projeto organizado e facilitar o acompanhamento do orientador.
+## Sobre
 
-## Sobre este Template
-
-Este template foi desenvolvido para padronizar a organização dos TCCs das turmas de Desenvolvimento de Sistemas. 
+Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do projeto Car Assist, incluindo a criação de demandas, acompanhamento de atividades e evolução das funcionalidades do sistema. A proposta é manter um fluxo de trabalho estruturado, facilitando a colaboração e garantindo a qualidade no desenvolvimento da solução.
 
 ### Disciplina: Trabalho de Conclusão de Curso
 Semestre: 2026/1
@@ -16,10 +15,8 @@ Semestre: 2026/1
 ### Orientadores: 
 - [@Joao-Meyer](https://github.com/Joao-Meyer)
 - [@fernandoleonid](https://github.com/fernandoleonid)
-- [@fernandoleonid](https://github.com/fernandoleonid)
+- [@marcelnt](https://github.com/marcelnt)
 - [@yurikomuta](https://github.com/yurikomuta)
-
-
 
 ### Documentação
 
@@ -43,18 +40,28 @@ Semestre: 2026/1
 ├── 📂 referências              
 │   └── 📄 bibliografia.bib
 ## Contribuições
+### Padrão de Commits
 
-Use mensagens claras e descritivas!
+Este projeto utiliza o padrão **Conventional Commits** para manter um histórico organizado e de fácil compreensão.
 
-Commits pequenos e frequentes.
+### Estrutura
 
-Exemplo: git commit -m `Adiciona introdução com contexto do problema`
+```bash
+tipo(escopo): descrição curta
+```
+
+ - feat: Nova funcionalidade                             
+ - fix: Correção de bug
+ - docs: Alterações na documentação
+ - style: Ajustes de formatação (sem alteração de lógica) 
+ - refactor: Refatoração de código
+ - test: Adição ou alteração de testes
+ - chore: Tarefas internas (configuração, build, etc.)     
+
 
 ## Authors
-
-- [@Aluno1](https://www.github.com/octokatherine)
-- [@Aluno2](https://www.github.com/octokatherine)
-- [@Aluno3](https://www.github.com/octokatherine)
-- [@Aluno4](https://www.github.com/octokatherine)
-- [@Aluno5](https://www.github.com/octokatherine)
+- [@Breno Reis](https://github.com/Bre01cc)
+- [@Guilherme Moreira](https://github.com/Guilherme1108)
+- [@Gustavo Mathias](https://github.com/Gustaxsx)
+- [@Nikolas](https://github.com/nikolasfernnds)
 
