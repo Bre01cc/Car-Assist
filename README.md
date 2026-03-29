@@ -11,6 +11,7 @@ Empresa especializada no desenvolvimento de aplicações voltadas para o setor a
 
 Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do projeto Car Assist, incluindo a criação de demandas, acompanhamento de atividades e evolução das funcionalidades do sistema. A proposta é manter um fluxo de trabalho estruturado, facilitando a colaboração e garantindo a qualidade no desenvolvimento da solução.
 
+
 ### Disciplina: Trabalho de Conclusão de Curso
 Semestre: 2026/1
 
@@ -41,6 +42,11 @@ Semestre: 2026/1
 
 ├── 📂 referências              
 │   └── 📄 bibliografia.bib
+
+---
+## Protótipo
+### Alta Fidelidade:
+- [Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&t=UEC8VPB559YzrLch-1)
 ## Contribuições
 ### Padrão de Commits
 
