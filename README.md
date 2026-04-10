@@ -48,7 +48,7 @@ Semestre: 2026/1
 ---
 ## Protótipo
 ### Alta Fidelidade:
-- [Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&t=UEC8VPB559YzrLch-1)
+- [Figma](https://www.figma.com/design/tUhIPlv9bQzmfWubdXrRq0/Car-Assist---Prototype?node-id=2-2&p=f&t=PsAVd7s5MkqW1pk3-0)
 ## Contribuições
 ### Padrão de Commits
 
