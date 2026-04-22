@@ -15,7 +15,7 @@ Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do p
 - [Back-End](https://github.com/Bre01cc/Car-Assist-backend)
 - [Front-End](https://github.com/Guilherme1108/Car-Assist-Frontend)
 - [Mobile](https://github.com/Gustaxsx/Car-Assist-Mobile)
-- [Banco de Dados]()
+- [Banco de Dados](https://github.com/nikolasfernnds/car-assist-database)
 
 ### Disciplina: Trabalho de Conclusão de Curso
 Semestre: 2026/1
