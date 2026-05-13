@@ -52,7 +52,7 @@ Semestre: 2026/1
 ---
 ## Protótipo
 ### Alta Fidelidade:
-- [Figma](https://www.figma.com/design/tUhIPlv9bQzmfWubdXrRq0/Car-Assist---Prototype?node-id=2-2&p=f&t=PsAVd7s5MkqW1pk3-0)
+- [Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&p=f&t=i9Oegf9rB0KI8dbS-0)
 ## Pitch
 - [Vídeo](https://www.youtube.com/watch?v=cpzWXmYRhAc)
 ## Contribuições
