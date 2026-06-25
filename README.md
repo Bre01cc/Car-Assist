@@ -34,8 +34,6 @@ Semestre: 2026/1
 │   └──  📂 LER
 |        └── 📄 RF (versão)
 |        └── 📄 RNF(versão) 
-│   └── 📄 apresentação_prévia.pptx     #apresentação prévia    
-│   └── 📄 apresentação.pptx            #apresentação final
 
 
 ├── 📂 code
